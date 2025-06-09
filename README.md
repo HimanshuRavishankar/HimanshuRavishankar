@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Himanshu Ravishankar
 
-🎯 **Aspiring Data Analyst | Power BI Developer | Python Enthusiast**  
-📍 Brisbane, Australia | 🎓 Master of Data Analytics – QUT | 💼 Ex-Deloitte, Infosys
+🎯 **Aspiring Data Analyst | Power BI Developer | Business Analyst | Python Enthusiast**  
+📍 Brisbane, Australia | 🎓 Master of Data Analytics – QUT | 💼 Ex-Infosys
 
 ---
 
