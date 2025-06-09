@@ -32,6 +32,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuRavishankar&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
