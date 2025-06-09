@@ -18,7 +18,7 @@
   Power BI dashboard to select top-performing players using scraped match data and performance metrics.
 
 - 🔍 **[Men’s Apparel Performance Dashboard](https://github.com/HimanshuRavishankar/Azure-Power-BI-Project.git)**
-Power BI dashboard built on Azure SQL to analyze men’s T-shirt brand performance using dynamic KPIs like discount %, sales price, and profit margins. End-to-end pipeline created using SSMS, Power Query, and DAX for real-time insights and executive-ready visuals.
+  Power BI dashboard built on Azure SQL to analyze men’s T-shirt brand performance using dynamic KPIs like discount %, sales price, and profit margins. End-to-end pipeline created using SSMS, Power Query, and DAX for real-time insights and executive-ready visuals.
 
 - 💳 **Credit Card Fraud Analytics**  
   Exploratory analysis and ML modeling on anonymized fraud data using SMOTE, precision-recall tuning, and visualization in Power BI.
