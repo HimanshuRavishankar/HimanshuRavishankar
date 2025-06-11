@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Himanshu Ravishankar
 
-🎯 **Aspiring Data Analyst | Power BI Developer | Business Analyst | Python Enthusiast**  
+🎯 **Aspiring Data Analyst | Power BI Analyst | Business Analyst | Python Enthusiast**  
 📍 Brisbane, Australia | 🎓 Master of Data Analytics – QUT | 💼 Ex-Infosys
 
 ---
