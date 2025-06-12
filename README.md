@@ -63,6 +63,5 @@
 ---
 
 ## ⚡ Fun Fact
-I’ve turned cricket stats into dashboards, anomaly logs into insights, and raw data into decision-ready reports!
-
+ Ex-engineer turned data detective! I chase patterns, tame messy spreadsheets, and build dashboards that don’t just look good — they talk back. Whether it’s Power BI, SQL, or cloud wizardry with Azure, I turn chaos into clarity with style. From machines to metrics, I’ve swapped steel for stories — and now I let the data do the talking (with a little flair, of course)!
 
