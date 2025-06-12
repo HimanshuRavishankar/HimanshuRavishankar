@@ -58,7 +58,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-ravishankar-data-analyst)
 - 📧 Email: himu63@gmail.com 
-- 🌐 Portfolio (Coming Soon!)
+- 🌐 Portfolio: https://my.novypro.com/himanshu-ravishankar
 
 ---
 
