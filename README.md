@@ -28,7 +28,7 @@
 
 - 🧠 **[YouTube Text Data Analysis Project – Sentiment & Engagement Insights](https://github.com/HimanshuRavishankar/YouTube-Text-Data-Analysis-Project.git)**
 
-Performed end-to-end analysis on multilingual YouTube video data, including sentiment analysis using TextBlob, emoji frequency tracking, and audience engagement metrics. Created word clouds, regression plots, and bar charts to visualize comment sentiment, category-wise view patterns, and top-performing videos using Python libraries such as Pandas, Plotly, Seaborn, and WordCloud.
+  Performed end-to-end analysis on multilingual YouTube video data, including sentiment analysis using TextBlob, emoji frequency tracking, and audience engagement metrics. Created word clouds, regression plots, and bar charts to visualize comment sentiment, category-      wise view patterns, and top-performing videos using Python libraries such as Pandas, Plotly, Seaborn, and WordCloud.
 
 - 💳 **Credit Card Fraud Analytics**  
 
