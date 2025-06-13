@@ -26,6 +26,10 @@
 
   Built an interactive genre-wise sales dashboard in Power BI by integrating Amazon Athena (via ODBC) with AWS S3 data, performing advanced data transformations in Power Query, and enabling region-wise analysis using radar charts, bookmarks, and slicers.
 
+- 🧠 **[YouTube Text Data Analysis Project – Sentiment & Engagement Insights](https://github.com/HimanshuRavishankar/YouTube-Text-Data-Analysis-Project.git)**
+
+Performed end-to-end analysis on multilingual YouTube video data, including sentiment analysis using TextBlob, emoji frequency tracking, and audience engagement metrics. Created word clouds, regression plots, and bar charts to visualize comment sentiment, category-wise view patterns, and top-performing videos using Python libraries such as Pandas, Plotly, Seaborn, and WordCloud.
+
 - 💳 **Credit Card Fraud Analytics**  
 
   Exploratory analysis and ML modeling on anonymized fraud data using SMOTE, precision-recall tuning, and visualization in Power BI.
