@@ -15,6 +15,7 @@
 ## 📌 Featured Projects
 
 - 🏏 **[Cricket Dream Team Selector – T20 WC 2022-23](https://github.com/HimanshuRavishankar/Cricket-Dream-Team-Selector-T20-World-Cup-2022-23)**  
+
   Power BI dashboard to select top-performing players using scraped match data and performance metrics.
 
 - 🔍 **[Men’s Apparel Performance Dashboard](https://github.com/HimanshuRavishankar/Azure-Power-BI-Project.git)**
@@ -26,6 +27,7 @@
   Built an interactive genre-wise sales dashboard in Power BI by integrating Amazon Athena (via ODBC) with AWS S3 data, performing advanced data transformations in Power Query, and enabling region-wise analysis using radar charts, bookmarks, and slicers.
 
 - 💳 **Credit Card Fraud Analytics**  
+
   Exploratory analysis and ML modeling on anonymized fraud data using SMOTE, precision-recall tuning, and visualization in Power BI.
   
 ---
